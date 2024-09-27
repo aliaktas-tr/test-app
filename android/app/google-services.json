@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "613744348808",
+    "firebase_url": "https://new-weedus-default-rtdb.firebaseio.com",
+    "project_id": "new-weedus",
+    "storage_bucket": "new-weedus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613744348808:android:41c27d34860db1aade193d",
+        "android_client_info": {
+          "package_name": "com.example.new_weedus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613744348808-ng5llor1arbqvbmqif4oj31c5bs2ntgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3SRwG7DeayPZKUhbhf5uDb4tZ3viG_L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613744348808-ng5llor1arbqvbmqif4oj31c5bs2ntgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "613744348808-r0k04gl24t3s168ibgtqaubb0h6e441p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newWeedus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
